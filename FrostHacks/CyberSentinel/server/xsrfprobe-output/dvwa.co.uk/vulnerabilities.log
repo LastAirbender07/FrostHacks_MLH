@@ -1,0 +1,266 @@
+[!] https://dvwa.co.uk/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:12:11 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'Last-Modified': 'Sat, 16 Jul 2022 19:40:01 GMT', 'ETag': 'W/"7065-5e3f14cf6e715"', 'Content-Encoding': 'gzip'}
+
+
+[!] https://dvwa.co.uk/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:12:14 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'Last-Modified': 'Sat, 16 Jul 2022 19:40:01 GMT', 'ETag': 'W/"7065-5e3f14cf6e715"', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/checkout.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:12:27 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'Last-Modified': 'Sat, 16 Jul 2022 19:40:01 GMT', 'ETag': 'W/"7065-5e3f14cf6e715"', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/checkout.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:12:34 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'Last-Modified': 'Sat, 16 Jul 2022 19:40:01 GMT', 'ETag': 'W/"7065-5e3f14cf6e715"', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:12:42 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'Last-Modified': 'Sat, 16 Jul 2022 19:40:01 GMT', 'ETag': 'W/"7065-5e3f14cf6e715"', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:12:47 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'Last-Modified': 'Sat, 16 Jul 2022 19:40:01 GMT', 'ETag': 'W/"7065-5e3f14cf6e715"', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/catalog.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:12:53 GMT', 'Content-Type': 'text/html', 'Content-Length': '458', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:41 GMT', 'Connection': 'close', 'ETag': '"62cc0b49-1ca"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Accept-Ranges': 'bytes'}
+
+
+[!] http://dvwa.co.uk/catalog.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:12:58 GMT', 'Content-Type': 'text/html', 'Content-Length': '458', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:41 GMT', 'Connection': 'close', 'ETag': '"62cc0b49-1ca"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Accept-Ranges': 'bytes'}
+
+
+[!] http://dvwa.co.uk/methenolone-enanthate-for-sale-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:13:05 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:46 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4e-3b9c"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/methenolone-enanthate-for-sale-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:13:09 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:46 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4e-3b9c"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/methandrostenolone-for-sale-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:13:16 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:46 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4e-46ee"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/methandrostenolone-for-sale-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:13:20 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:46 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4e-46ee"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/novorapid-insulin-price.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:13:26 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:47 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4f-3d13"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/novorapid-insulin-price.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:13:31 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:47 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4f-3d13"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/somatropin-hgh-for-sale.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:13:37 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:48 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b50-3d22"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/somatropin-hgh-for-sale.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:13:42 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:48 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b50-3d22"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/buy-restylane-online-in-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:13:48 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:40 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b48-3da3"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/buy-restylane-online-in-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:13:53 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:40 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b48-3da3"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/buy-jintropin-in-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:00 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:40 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b48-3c66"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/buy-jintropin-in-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:04 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:40 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b48-3c66"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/arimidex-for-sale.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:11 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:37 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b45-3b9a"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/arimidex-for-sale.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:15 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:37 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b45-3b9a"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/andriol-testocaps-price.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:23 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:35 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b43-3d15"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/andriol-testocaps-price.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:27 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:35 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b43-3d15"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/where-to-buy-insulin-online.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:34 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:52 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b54-4741"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/where-to-buy-insulin-online.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:39 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:52 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b54-4741"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/hgh-for-sale-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:45 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:44 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4c-3d03"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/hgh-for-sale-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:50 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:44 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4c-3d03"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/lantus-insulin-price.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:14:57 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:45 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4d-3c64"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/lantus-insulin-price.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:15:02 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:45 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4d-3c64"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/stanozolin-for-sale-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:15:09 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:48 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b50-3bb8"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/stanozolin-for-sale-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:15:13 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:48 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b50-3bb8"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/clomiphene-for-sale-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:15:20 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:42 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4a-3c20"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/clomiphene-for-sale-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:15:24 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:42 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b4a-3c20"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/sustaver-for-sale-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:15:31 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:50 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b52-3b69"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/sustaver-for-sale-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:15:37 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:50 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b52-3b69"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/testosterone-cypionate-for-sale-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:15:44 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:50 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b52-467f"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/testosterone-cypionate-for-sale-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:15:48 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:50 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b52-467f"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/testover-for-sale-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:15:55 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:51 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b53-3c85"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/testover-for-sale-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:00 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:51 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b53-3c85"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/where-to-get-anabolic-steroids-in-uk.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:06 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:52 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b54-4511"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/where-to-get-anabolic-steroids-in-uk.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:12 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:52 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b54-4511"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-1.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:21 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-5599"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-1.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:25 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-5599"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-2.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:33 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-50ae"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-2.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:38 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-50ae"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-3.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:44 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-53a0"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-3.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:48 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-53a0"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-4.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:55 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-4d3f"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-4.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:16:59 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-4d3f"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-5.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:17:07 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-5527"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-5.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:17:11 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-5527"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+[!] http://dvwa.co.uk/steroid-uk-6.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx', 'Date': 'Thu, 28 Sep 2023 11:17:18 GMT', 'Content-Type': 'text/html', 'Last-Modified': 'Mon, 11 Jul 2022 11:36:49 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'Vary': 'Accept-Encoding', 'ETag': 'W/"62cc0b51-4d78"', 'Expires': 'Thu, 31 Dec 2037 23:55:55 GMT', 'Cache-Control': 'max-age=315360000', 'Content-Encoding': 'gzip'}
+
+
+

@@ -1,0 +1,464 @@
+2024-01-20 21:57:09,331 xsstrike - RUN - Crawling the target
+2024-01-20 21:57:09,331 xsstrike - DEBUG - Target scheme: https
+2024-01-20 21:57:09,333 core.photon - RUN - Parsing login.php                               
+2024-01-20 21:57:11,348 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/login.php
+2024-01-20 21:57:11,348 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:57:11,348 core.requester - DEBUG - Requester data: None
+2024-01-20 21:57:11,348 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:14,705 core.requester - DEBUG - Requester url: https://html5shiv.googlecode.com/svn/trunk/html5.js
+2024-01-20 21:57:14,705 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:57:14,705 core.requester - DEBUG - Requester data: 
+2024-01-20 21:57:14,705 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:17,283 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/login.php/js/html5.js
+2024-01-20 21:57:17,283 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:57:17,283 core.requester - DEBUG - Requester data: 
+2024-01-20 21:57:17,283 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:18,497 core.photon - RUN - Parsing info.php                                
+2024-01-20 21:57:18,497 core.photon - RUN - Parsing training.php                            
+2024-01-20 21:57:18,498 core.photon - RUN - Parsing user_new.php                            
+2024-01-20 21:57:20,502 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:20,502 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/training.php
+2024-01-20 21:57:20,502 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/info.php
+2024-01-20 21:57:20,502 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:57:20,503 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:57:20,503 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:57:20,503 core.requester - DEBUG - Requester data: None
+2024-01-20 21:57:20,503 core.requester - DEBUG - Requester data: None
+2024-01-20 21:57:20,503 core.requester - DEBUG - Requester data: None
+2024-01-20 21:57:20,504 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:20,504 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:20,504 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:24,205 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:24,205 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/login.php
+2024-01-20 21:57:24,205 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:24,206 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:24,206 core.requester - DEBUG - Requester data: {
+  "login": "v3dm0s"
+}
+2024-01-20 21:57:24,206 core.requester - DEBUG - Requester data: {
+  "login": "v3dm0s"
+}
+2024-01-20 21:57:24,206 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:24,206 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:27,415 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/login.php
+2024-01-20 21:57:27,415 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:27,415 core.requester - DEBUG - Requester data: {
+  "login": "st4r7s<3nd"
+}
+2024-01-20 21:57:27,415 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:27,962 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:27,962 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:27,962 core.requester - DEBUG - Requester data: {
+  "login": "st4r7s<3nd"
+}
+2024-01-20 21:57:27,963 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:31,141 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/login.php
+2024-01-20 21:57:31,141 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:31,141 core.requester - DEBUG - Requester data: {
+  "login": "st4r7s>3nd"
+}
+2024-01-20 21:57:31,141 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:31,563 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:31,563 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:31,563 core.requester - DEBUG - Requester data: {
+  "login": "st4r7s>3nd"
+}
+2024-01-20 21:57:31,563 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:33,981 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/login.php
+2024-01-20 21:57:33,981 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:33,981 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "password": "v3dm0s"
+}
+2024-01-20 21:57:33,981 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:34,387 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:34,387 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:34,387 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "v3dm0s"
+}
+2024-01-20 21:57:34,387 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:37,213 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/login.php
+2024-01-20 21:57:37,213 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:37,213 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "password": "st4r7s<3nd"
+}
+2024-01-20 21:57:37,213 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:37,746 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:37,746 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:37,746 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "st4r7s<3nd"
+}
+2024-01-20 21:57:37,746 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:40,490 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/login.php
+2024-01-20 21:57:40,490 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:40,490 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "password": "st4r7s>3nd"
+}
+2024-01-20 21:57:40,491 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:40,987 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:40,987 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:40,988 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "st4r7s>3nd"
+}
+2024-01-20 21:57:40,988 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:43,768 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:43,768 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:43,768 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "v3dm0s"
+}
+2024-01-20 21:57:43,769 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:46,544 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:46,544 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:46,545 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "st4r7s<3nd"
+}
+2024-01-20 21:57:46,545 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:49,339 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:49,339 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:49,340 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "st4r7s>3nd"
+}
+2024-01-20 21:57:49,340 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:52,582 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:52,582 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:52,582 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "",
+  "password_conf": "v3dm0s"
+}
+2024-01-20 21:57:52,583 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:55,828 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:55,828 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:55,828 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "",
+  "password_conf": "st4r7s<3nd"
+}
+2024-01-20 21:57:55,828 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:57:58,602 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:57:58,602 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:57:58,602 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "",
+  "password_conf": "st4r7s>3nd"
+}
+2024-01-20 21:57:58,602 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:58:01,393 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:58:01,393 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:58:01,393 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "",
+  "password_conf": "",
+  "secret": "v3dm0s"
+}
+2024-01-20 21:58:01,393 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:58:04,573 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:58:04,574 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:58:04,574 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "",
+  "password_conf": "",
+  "secret": "st4r7s<3nd"
+}
+2024-01-20 21:58:04,574 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:58:07,866 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:58:07,866 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:58:07,866 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "",
+  "password_conf": "",
+  "secret": "st4r7s>3nd"
+}
+2024-01-20 21:58:07,866 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:58:10,858 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:58:10,858 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:58:10,859 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "",
+  "password_conf": "",
+  "secret": "",
+  "mail_activation": "v3dm0s"
+}
+2024-01-20 21:58:10,859 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:58:14,924 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:58:14,924 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:58:14,924 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "",
+  "password_conf": "",
+  "secret": "",
+  "mail_activation": "st4r7s<3nd"
+}
+2024-01-20 21:58:14,924 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:58:18,255 core.requester - DEBUG - Requester url: https://bwapp.hakhub.net/user_new.php
+2024-01-20 21:58:18,256 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:58:18,256 core.requester - DEBUG - Requester data: {
+  "login": "",
+  "email": "",
+  "password": "",
+  "password_conf": "",
+  "secret": "",
+  "mail_activation": "st4r7s>3nd"
+}
+2024-01-20 21:58:18,256 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:58:19,522 xsstrike - INFO - Progress: 4/4
+

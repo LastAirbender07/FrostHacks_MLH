@@ -1,0 +1,5 @@
+Hello, I am a spam message Not Spam
+Hello, I am not a spam message Not Spam
+You Not Spam
+I am a spam message Not Spam
+I am not a spam message Not Spam

