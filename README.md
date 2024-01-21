@@ -16,8 +16,7 @@
 ## Introduction
 Our Application is a comprehensive cybersecurity solution consisting of two components: CyberSentinel, a web application, and HackOn, an Android app. The project aims to provide users with a unified platform for security assessments, incorporating various tools and features.
 
-(![WhatsApp Image 2024-01-21 at 5 40 51 PM](https://github.com/LastAirbender07/FrostHacks_MLH/assets/101379967/a4585ef4-384b-4855-9dd7-806a4dfe6795)
-)
+![WhatsApp Image 2024-01-21 at 5 40 51 PM](https://github.com/LastAirbender07/FrostHacks_MLH/assets/101379967/a4585ef4-384b-4855-9dd7-806a4dfe6795)
 
 ## Web Application: CyberSentinel
 CyberSentinel is a ReactJS-based web application integrated with TailWind and MongoDB. It offers functionalities such as static code analysis, malware scanning, and seamless integration with cybersecurity tools. Users can perform security assessments, scan files and URLs, and benefit from the integration of various security features.
